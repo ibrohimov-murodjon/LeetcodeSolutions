@@ -23,7 +23,7 @@ Each solution includes:
 
 ## 🚀 Progress Tracking
 
-- Easy: 0 solved
+- Easy: 1 solved
 - Medium: 0 solved
 - Hard: 0 solved
 
