@@ -1,3 +1,4 @@
+#👋 **Hello World!**
 # 🎯 LeetCode Solutions JavaScript
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,10 +26,6 @@ Each solution includes:
 - Easy: 0 solved
 - Medium: 0 solved
 - Hard: 0 solved
-
-## ⚖️ License
-
-MIT License - feel free to use and learn from these solutions!
 
 ---
 ⭐ Star this repository if you find it helpful!
