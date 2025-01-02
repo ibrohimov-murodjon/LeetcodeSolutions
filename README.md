@@ -8,9 +8,9 @@ My personal solutions to LeetCode problems, implemented in JavaScript. This repo
 ## 📁 Repository Structure
 
 ```
-├── Easy/         # Easy difficulty problems (🟢)
-├── Medium/       # Medium difficulty problems (🟡)
-└── Hard/         # Hard difficulty problems (🔴)
+├── Easy/         # Easy difficulty problems (●)
+├── Medium/       # Medium difficulty problems (●)
+└── Hard/         # Hard difficulty problems (●)
 ```
 
 ## 📝 Solution Format
